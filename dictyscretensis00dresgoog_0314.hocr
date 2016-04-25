@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dictyscretensis00dresgoog_0314.png"; bbox 0 0 3112 4950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 330 1939 1098 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 330 1939 1098 2034">
+     <span class='ocr_line' id='line_1_1' title="bbox 330 1939 1098 2034; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 330 1939 689 2034; x_wconf 87' lang='lat' dir='ltr'><strong>DARETIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 739 1939 1098 2034; x_wconf 87' lang='lat' dir='ltr'>PHRYGII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 689 2224 878 2270">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 689 2224 878 2270">
+     <span class='ocr_line' id='line_1_2' title="bbox 689 2224 878 2270; baseline -0.005 0"><span class='ocrx_word' id='word_1_3' title='bbox 689 2224 737 2270; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 872 2251 878 2260; x_wconf 58' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 428 2453 995 2532">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 428 2453 995 2532">
+     <span class='ocr_line' id='line_1_3' title="bbox 428 2453 995 2532; baseline 0.004 -2"><span class='ocrx_word' id='word_1_5' title='bbox 428 2453 724 2532; x_wconf 89' lang='lat' dir='ltr'><strong>EXCIDIO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 771 2454 995 2532; x_wconf 87' lang='lat' dir='ltr'>TROJAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 578 2713 861 2784">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 578 2713 861 2784">
+     <span class='ocr_line' id='line_1_4' title="bbox 578 2713 861 2784; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 578 2713 861 2784; x_wconf 81' lang='lat' dir='ltr'><strong>HISTORIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 247 4307 1205 4373">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 247 4307 1205 4373">
+     <span class='ocr_line' id='line_1_5' title="bbox 247 4307 1205 4373; baseline -0.004 -15"><span class='ocrx_word' id='word_1_8' title='bbox 247 4310 332 4373; x_wconf 76' lang='lat' dir='ltr'><strong><em>Delph.</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 342 4316 367 4361; x_wconf 78' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 382 4311 440 4360; x_wconf 70' lang='grc' dir='ltr'><strong>ναν.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 449 4311 514 4362; x_wconf 71' lang='lat' dir='ltr'><em>ctas.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 640 4308 709 4360; x_wconf 62' lang='lat' dir='ltr'><strong><em>Dici.</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 732 4309 800 4359; x_wconf 75' lang='lat' dir='ltr'><strong><em>Cret.</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 816 4313 856 4373; x_wconf 71' lang='lat'><strong>⁸50.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1183 4307 1205 4354; x_wconf 76' lang='grc' dir='ltr'><strong>Τ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1560 4950">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1560 4950">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1560 4950; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1560 4950; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
